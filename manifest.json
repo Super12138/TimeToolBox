@@ -1,0 +1,48 @@
+{
+    "name": "日期计算器",
+    "short_name": "日期计算器",
+    "start_url": "/ExpDateCalculator/",
+    "display": "standalone",
+    "description": "加减日期",
+    "lang": "zh",
+    "dir": "auto",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "icons/icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "icons/icon-192-maskable.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "icons/icon-512-maskable.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+      }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": true,
+    "shortcuts": [
+      {
+        "name": "日期计算器",
+        "url": "index.html",
+        "description": "日期计算器"
+      }
+    ],
+    "categories": [
+      "tools"
+    ]
+  }
